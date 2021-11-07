@@ -1,5 +1,3 @@
-# README
-
 # Colorful
 
 Colorful is a Figma plugin for generating colors for button states:
@@ -8,7 +6,7 @@ Colorful is a Figma plugin for generating colors for button states:
 - Hover
 - Pressed
 
-[Screen Recording 2021-11-07 at 22.24.59.mov](README%20efc51fb6956b436f8949aed4865e23a9/Screen_Recording_2021-11-07_at_22.24.59.mov)
+[Screen Recording 2021-11-07 at 22.24.59.mov](README_media/Screen_Recording_2021-11-07_at_22.24.59.gif)
 
 ---
 
@@ -60,10 +58,10 @@ To generate the state colors:
 4. Now you can use these colors on your buttons in mockups and prototypes.
 5. *Bonus*. Duplicate [this Figma file](https://www.figma.com/file/Z6EYt4NGv4gBgkmnYbn7e5/Colorful-playground?node-id=0%3A1) to try out the playground scene in the demo video.
     
-    ![Screenshot 2021-11-07 at 23.29.57.png](README%20efc51fb6956b436f8949aed4865e23a9/Screenshot_2021-11-07_at_23.29.57.png)
+    ![Screenshot 2021-11-07 at 23.29.57.png](README_media/Screenshot_2021-11-07_at_23.29.57.png)
     
 
-[Screen Recording 2021-11-07 at 22.47.46.mov](README%20efc51fb6956b436f8949aed4865e23a9/Screen_Recording_2021-11-07_at_22.47.46.mov)
+[Screen Recording 2021-11-07 at 22.47.46.mov](README_media/Screen_Recording_2021-11-07_at_22.47.46.gif)
 
 # Project requirements
 
@@ -82,7 +80,7 @@ To generate the state colors:
 
 ## UML Diagram description
 
-![Screenshot 2021-11-07 at 23.07.02.png](README%20efc51fb6956b436f8949aed4865e23a9/Screenshot_2021-11-07_at_23.07.02.png)
+![Screenshot 2021-11-07 at 23.07.02.png](README_media/Screenshot_2021-11-07_at_23.07.02.png)
 
 # Installation
 
@@ -138,7 +136,7 @@ You can open any existing document or create a new one.
 
 Choose the file `manifest.json` that is in folder where you cloned the repository.
 
-![Screenshot 2021-11-07 at 23.20.57.png](README%20efc51fb6956b436f8949aed4865e23a9/Screenshot_2021-11-07_at_23.20.57.png)
+![Screenshot 2021-11-07 at 23.20.57.png](README_media/Screenshot_2021-11-07_at_23.20.57.png)
 
 ### **Install the typings**
 

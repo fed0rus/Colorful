@@ -6,11 +6,22 @@ Colorful is a Figma plugin for generating colors for button states:
 - Hover
 - Pressed
 
-[Screen Recording 2021-11-07 at 22.24.59.mov](README_media/Screen_Recording_2021-11-07_at_22.24.59.gif)
+![](https://github.com/fed0rus/Colorful/blob/master/README_media/Screen_Recording_2021-11-07_at_22.24.59.gif)
 
 ---
 
 ## Contents
+
+1. [Description](#description)
+> * [Project description](#project-description)
+> * [Brief artifact description](#brief-artifact-description)
+> * [Demo](#demo)
+2. [Project requirements](#project-requirements)
+> * [Glossary](#glossary)
+> * [User Stories](#user-stories)
+3. [Design](#design)
+> * [UML Diagram description](#uml-diagram-description)
+6. [Installation](#installation)
 
 ---
 
@@ -29,7 +40,7 @@ A lot of interface designers use [Figma](https://www.figma.com) to create design
 - It automates color generation process and speed up designers' workflow
 - It yields more consistent results (plugin uses the same lighten and darken values)
 
-## Artifact description
+## Brief artifact description
 
 You can find full project document here: [https://www.notion.so/RUP-artifacts-for-Colorful-f2202e90952c40ff9f27932d8ddbd8a0](https://www.notion.so/RUP-artifacts-for-Colorful-f2202e90952c40ff9f27932d8ddbd8a0)
 
@@ -61,7 +72,7 @@ To generate the state colors:
     ![Screenshot 2021-11-07 at 23.29.57.png](README_media/Screenshot_2021-11-07_at_23.29.57.png)
     
 
-[Screen Recording 2021-11-07 at 22.47.46.mov](README_media/Screen_Recording_2021-11-07_at_22.47.46.gif)
+![](https://github.com/fed0rus/Colorful/blob/master/README_media/Screen_Recording_2021-11-07_at_22.47.46.gif)
 
 # Project requirements
 

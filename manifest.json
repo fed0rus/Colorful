@@ -5,6 +5,5 @@
   "main": "code.js",
   "editorType": [
     "figma"
-  ],
-  "ui": "ui.html"
+  ]
 }

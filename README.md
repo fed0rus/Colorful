@@ -1,5 +1,3 @@
-# README
-
 # Colorful
 
 Colorful is a Figma plugin for generating colors for button states:
@@ -8,11 +6,22 @@ Colorful is a Figma plugin for generating colors for button states:
 - Hover
 - Pressed
 
-[Screen Recording 2021-11-07 at 22.24.59.mov](README%20efc51fb6956b436f8949aed4865e23a9/Screen_Recording_2021-11-07_at_22.24.59.mov)
+![](https://github.com/fed0rus/Colorful/blob/master/README_media/Screen_Recording_2021-11-07_at_22.24.59.gif)
 
 ---
 
 ## Contents
+
+1. [Description](#description)
+> * [Project description](#project-description)
+> * [Brief artifact description](#brief-artifact-description)
+> * [Demo: how it works](#demo-how-it-works)
+2. [Project requirements](#project-requirements)
+> * [Glossary](#glossary)
+> * [User Stories](#user-stories)
+3. [Design](#design)
+> * [UML Diagram description](#uml-diagram-description)
+6. [Installation](#installation)
 
 ---
 
@@ -31,7 +40,7 @@ A lot of interface designers use [Figma](https://www.figma.com) to create design
 - It automates color generation process and speed up designers' workflow
 - It yields more consistent results (plugin uses the same lighten and darken values)
 
-## Artifact description
+## Brief artifact description
 
 You can find full project document here: [https://www.notion.so/RUP-artifacts-for-Colorful-f2202e90952c40ff9f27932d8ddbd8a0](https://www.notion.so/RUP-artifacts-for-Colorful-f2202e90952c40ff9f27932d8ddbd8a0)
 
@@ -60,10 +69,10 @@ To generate the state colors:
 4. Now you can use these colors on your buttons in mockups and prototypes.
 5. *Bonus*. Duplicate [this Figma file](https://www.figma.com/file/Z6EYt4NGv4gBgkmnYbn7e5/Colorful-playground?node-id=0%3A1) to try out the playground scene in the demo video.
     
-    ![Screenshot 2021-11-07 at 23.29.57.png](README%20efc51fb6956b436f8949aed4865e23a9/Screenshot_2021-11-07_at_23.29.57.png)
+    ![Screenshot 2021-11-07 at 23.29.57.png](README_media/Screenshot_2021-11-07_at_23.29.57.png)
     
 
-[Screen Recording 2021-11-07 at 22.47.46.mov](README%20efc51fb6956b436f8949aed4865e23a9/Screen_Recording_2021-11-07_at_22.47.46.mov)
+![](https://github.com/fed0rus/Colorful/blob/master/README_media/Screen_Recording_2021-11-07_at_22.47.46.gif)
 
 # Project requirements
 
@@ -71,7 +80,7 @@ To generate the state colors:
 
 - **Figma** — a web-based user interface design tool.
 - **UI** — is anything a user may interact with to use a digital product or service.
-- **RGB** (Red, Green, Blue) — primary colors in additive color synthesis. A RGB file consists in composite layers of Red, Gree, and Blue, each being coded on 256 levels from 0 to 255. In project scope we transform the range 0-255 (integer) to 0-1 (float).
+- **RGB** (Red, Green, Blue) — primary colors in additive color synthesis. RGB pixel consists of composite layers of Red, Gree, and Blue, each being coded in 256 levels from 0 to 255. In the project scope we transform the range 0-255 (integer) to 0-1 (float).
 - **Button states** — visual indicators that let the user know whether they can click or have clicked, or had successfully clicked a button.
 
 ## User stories
@@ -82,7 +91,7 @@ To generate the state colors:
 
 ## UML Diagram description
 
-![Screenshot 2021-11-07 at 23.07.02.png](README%20efc51fb6956b436f8949aed4865e23a9/Screenshot_2021-11-07_at_23.07.02.png)
+![Screenshot 2021-11-07 at 23.07.02.png](README_media/Screenshot_2021-11-07_at_23.07.02.png)
 
 # Installation
 
@@ -138,7 +147,7 @@ You can open any existing document or create a new one.
 
 Choose the file `manifest.json` that is in folder where you cloned the repository.
 
-![Screenshot 2021-11-07 at 23.20.57.png](README%20efc51fb6956b436f8949aed4865e23a9/Screenshot_2021-11-07_at_23.20.57.png)
+![Screenshot 2021-11-07 at 23.20.57.png](README_media/Screenshot_2021-11-07_at_23.20.57.png)
 
 ### **Install the typings**
 
@@ -150,7 +159,7 @@ Hit ⌘⇧B (Ctrl-Shift-B for Windows) in Visual Studio Code, then select `tsc:
 
 ### **Run the plugin**
 
-Running proccess is described above, in the [Demo section.]()
+Running proccess is described above, in the [Demo section.](#demo-how-it-works)
 
 ---
 

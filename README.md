@@ -15,7 +15,7 @@ Colorful is a Figma plugin for generating colors for button states:
 1. [Description](#description)
 > * [Project description](#project-description)
 > * [Brief artifact description](#brief-artifact-description)
-> * [Demo](#demo)
+> * [Demo: how it works](#demo-how-it-works)
 2. [Project requirements](#project-requirements)
 > * [Glossary](#glossary)
 > * [User Stories](#user-stories)

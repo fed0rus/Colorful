@@ -80,7 +80,7 @@ To generate the state colors:
 
 - **Figma** — a web-based user interface design tool.
 - **UI** — is anything a user may interact with to use a digital product or service.
-- **RGB** (Red, Green, Blue) — primary colors in additive color synthesis. A RGB file consists in composite layers of Red, Gree, and Blue, each being coded on 256 levels from 0 to 255. In project scope we transform the range 0-255 (integer) to 0-1 (float).
+- **RGB** (Red, Green, Blue) — primary colors in additive color synthesis. RGB pixel consists of composite layers of Red, Gree, and Blue, each being coded in 256 levels from 0 to 255. In the project scope we transform the range 0-255 (integer) to 0-1 (float).
 - **Button states** — visual indicators that let the user know whether they can click or have clicked, or had successfully clicked a button.
 
 ## User stories

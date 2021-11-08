@@ -159,7 +159,7 @@ Hit ⌘⇧B (Ctrl-Shift-B for Windows) in Visual Studio Code, then select `tsc:
 
 ### **Run the plugin**
 
-Running proccess is described above, in the [Demo section.](#demo)
+Running proccess is described above, in the [Demo section.](#demo-how-it-works)
 
 ---
 
